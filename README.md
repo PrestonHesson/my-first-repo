@@ -1,2 +1,2 @@
 # my-first-repo
-labs 
+lab work 
