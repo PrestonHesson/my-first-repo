@@ -1,4 +1,5 @@
 # my-first-repo
 lab work 
 Preston Hesson
-smithsonian museum
+Smithsonian Museum
+*Thumbs Up*
